@@ -1,0 +1,4 @@
+../PIR/PIR.c:6:6:PIR_Init	1
+../PIR/PIR.c:12:9:PIR_IsDetected	2
+../PIR/PIR.c:22:10:PIR_GetCount	1
+../PIR/PIR.c:27:6:PIR_EXTI_Callback	1

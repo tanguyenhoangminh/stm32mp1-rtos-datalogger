@@ -1,0 +1,2 @@
+../DHT11/DHT11.c:22:20:delay_us	2
+../DHT11/DHT11.c:28:14:DHT11_Read	17

@@ -1,0 +1,11 @@
+../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/rpmsg.h:158:19:rpmsg_send	1
+../Core/Src/freertos.c:79:12:logger_rpmsg_cb	1
+../Core/Src/freertos.c:89:13:logger_rpmsg_unbind_cb	1
+../Core/Src/freertos.c:96:6:logger_rpmsg_bind_cb	1
+../Core/Src/freertos.c:185:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:255:6:StartUARTTask	1
+../Core/Src/freertos.c:297:6:StartSensorTask	6
+../Core/Src/freertos.c:354:6:StartLoggerTask	3
+../Core/Src/freertos.c:402:6:StartOledTask	3
+../Core/Src/freertos.c:461:6:StartDhtTask	2
+../Core/Src/freertos.c:510:6:HAL_GPIO_EXTI_Rising_Callback	2
