@@ -3,6 +3,8 @@ PROJECT: RTOS-based Data Logger with PIR + DHT11 on STM32MP157D-DK1
 Architecture: AMP (Asymmetric Multi-Processing) — M4 FreeRTOS + A7 Linux
 ================================================================
 
+RESULTS: https://drive.google.com/drive/folders/1GPfrxclPYbXhSSj8R2IKrqqRIPj2qo8v?usp=sharing
+
 ================================================================
 1. SYSTEM ARCHITECTURE OVERVIEW
 ================================================================
